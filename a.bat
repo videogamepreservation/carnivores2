@@ -1,0 +1,1 @@
+v_d3d.exe prj=3_rel x=600 y=800 dtm=1 wep=31 -radar
